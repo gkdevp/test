@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="amphtml" href="https://toysgame.store/gacetinmadrid/akun-pro-kamboja" />
+    <link rel="amphtml" href="https://toysgame.store/gacetinmadrid/sv388" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <link rel="canonical" href="https://gacetinmadrid.com/2023/12/23/sindicatos-transporte-sanitario-madrid-denuncian-descontrol-traslado-urgencias">
